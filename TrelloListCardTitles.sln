@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloListCardTitles", "TrelloListCardTitles\TrelloListCardTitles.csproj", "{5C38CBF2-385F-42C7-979F-6605F0161A77}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51753BAF-D27B-44A6-A64D-3A2FF47570BC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\david.nicolau\Desktop\trello-cards-1.jpg = ..\..\Users\david.nicolau\Desktop\trello-cards-1.jpg
+		..\..\Users\david.nicolau\Desktop\trello-cards-2.jpg = ..\..\Users\david.nicolau\Desktop\trello-cards-2.jpg
+		..\..\Users\david.nicolau\Desktop\trello.jpg = ..\..\Users\david.nicolau\Desktop\trello.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
